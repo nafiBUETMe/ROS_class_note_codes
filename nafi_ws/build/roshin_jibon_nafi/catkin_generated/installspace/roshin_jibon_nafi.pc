@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/nafi_ws/install
+
+Name: roshin_jibon_nafi
+Description: Description of roshin_jibon_nafi
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
