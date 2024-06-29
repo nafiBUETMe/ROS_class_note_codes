@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/gui_ws/install
+
+Name: combined_gui
+Description: Description of combined_gui
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
