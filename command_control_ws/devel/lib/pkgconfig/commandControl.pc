@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/command_control_ws/devel
+
+Name: commandControl
+Description: Description of commandControl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
